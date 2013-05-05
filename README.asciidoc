@@ -44,12 +44,12 @@ Clojure 1.2 or newer::
 +
 If you would like to use dynamic compilation with Android 2.3 and newer, use
 the Clojure available from the `android` branch from
-https://github.com/sattvik/clojure/tree/android[this repository on
-  GitHub].  This branch is based off the latest Clojure development version.
+https://github.com/clojure-android/clojure[this repository on GitHub].  This
+branch is based off the latest Clojure development version.
 +
 If you would like to use dynamic compilation, but must support Android 2.1, you
 will need to use the version from branch `android-1.2.x`,  available
-https://github.com/sattvik/clojure/tree/android-1.2.x[here].  This is based off
+https://github.com/clojure-android/clojure/tree/android-1.2.x[here].  This is based off
 of Clojure 1.2.1.
 
 Android SDK Tools::
@@ -88,7 +88,7 @@ wiki] has some more detailed instructions.
 Just clone the repository to your computer:
 
 ----
-% git clone https://github.com/sattvik/neko.git
+% git clone https://github.com/clojure-android/neko.git
 ----
 
 If all went well, Neko should now be in a directory called `neko`.
